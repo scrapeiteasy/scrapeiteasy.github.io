@@ -1,3 +1,7 @@
+###############################################
+# terms.md
+# 06/10/2024 10:38am Added terms.html for live GitHub Pages viewing; transitioned content to HTML
+###############################################
 # Terms of Service
 
 Effective Date: 5/13/25

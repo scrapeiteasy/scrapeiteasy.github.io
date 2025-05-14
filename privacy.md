@@ -1,3 +1,7 @@
+###############################################
+# privacy.md
+# 06/10/2024 10:38am Added privacy.html for live GitHub Pages viewing; transitioned content to HTML
+###############################################
 # Privacy Policy
 
 Effective Date: 5/13/25
